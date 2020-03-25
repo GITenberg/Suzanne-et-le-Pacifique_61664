@@ -1,0 +1,31 @@
+_repo: Suzanne-et-le-Pacifique_61664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giraudoux, Jean
+    aliases:
+    - Giradoux, Jean
+    - Maniere, J.-E.
+    - Andouard
+    - Cordelier, Maurice
+    - Giraudoux, Hippolyte Jean
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '51078'
+    url: http://www.gutenberg.org/2009/agents/51078
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Giraudoux
+    - https://fr.wikipedia.org/wiki/Jean_Giraudoux
+description: ''
+gutenberg_issued: '2020-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61664'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Suzanne et le Pacifique
+url: http://www.gutenberg.org/ebooks/61664
